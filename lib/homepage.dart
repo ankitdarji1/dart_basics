@@ -171,6 +171,100 @@ class _HomepageState extends State<Homepage> {
 //     }
 // }
 
+      // void main(){
+//   var year=2005;
+//   while(year < 2016){
+//     print(year);
+//     year+=1;
+//   }
+// }
+
+// void main(){
+//     var age=18;
+//     while(age<=99){
+//     print(age);
+//     age+=1;
+//     }
+// }
+
+// void main(){
+//     var age=1;
+//     do{
+//         print('You are eligible for votings:$age');
+//         age=age+1;
+//     }while(age<=18);
+// }
+
+
+// void main(){
+//     var i=1;
+//     while(i<=5){
+//         print(i);
+//         i++;
+//     }
+// }
+
+// void main(){
+//     var number=1;
+//     while(number<=10){
+//         print(number);
+//         number=number+2;
+//     }
+// }
+
+// void main(){
+//     var number=5;
+//     while(number>0){
+//         print(number);
+//         number--;
+//     }
+// }
+
+// void main(){
+//     var number=3;
+//     while(number<=30){
+//         print(number);
+//         number=number+3;
+//     }
+// }
+
+// void main(){
+//     var n=1;
+//     while(n<=10){
+//         if(n==10){
+//             print('Found number 9:$n');
+//             break;
+//         }
+//         n++;
+//     }
+// }
+
+
+// void main(){
+// int fibonacci(int n){
+//     if(n==0 || n==1) return n;
+//     return fibonacci(n-1)+fibonacci(n-2);
+// }
+
+// print(fibonacci(10));
+// }
+
+// int add(int a,int b) => a+b;
+// int multiple(int a,int b) =>a*b;
+// bool isEven(int n) => n%2==0;
+// int factorial(int n){
+//     if(n==0) return 1;
+//     return n*factorial(n-1);
+// }
+// int fibonacci(int n) { if (n == 0 || n == 1) return n; return fibonacci(n - 1) + fibonacci(n - 2); }
+// void main(){
+//     print(add(1,2));
+//     print(multiple(3,3));
+//     print(isEven(9));
+//     print(fibonacci(10));
+//     print(factorial(0));
+// }
+
 
 
 
