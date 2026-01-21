@@ -266,6 +266,141 @@ class _HomepageState extends State<Homepage> {
 // }
 
 
+//Class: A class is like a blueprint. It describes how an object should look and behave.
+
+
+// class Car{
+//  String brand;
+//  int speed;
+
+//  Car(this.brand,this.speed);
+
+//  void drive(){
+//     print('$brand is driving at $speed km/h');
+//  }
+// }
+
+// void main(){
+//    var car1=Car('Toyoto',120);
+//    var car2=Car('BMW',100);
+//    car1.drive();
+//    car2.drive();
+// }
+
+// class Student{
+//   String name;
+//   int age;
+
+//   Student(this.name,this.age);
+
+//   void introduce(){
+//   print('Hi, I am $name and I am $age years old.');
+//   }
+// }
+
+// void main(){
+//   var s1=Student('CemronGreen',25);
+//   var s2=Student('ViratVohli',38);
+
+//   s1.introduce();
+//   s2.introduce();
+// }
+
+// class Book{
+//     String title;
+//     String author;
+
+//     Book(this.title,this.author);
+
+//     void details(){
+//         print('Book: $title by $author');
+//     }
+// }
+
+// void main(){
+//     var b1=Book('Life of Gautam Budda','dhruva');
+//     var b2=Book('Krish','rinku');
+
+//     b1.details();
+//     b2.details();
+// }
+
+// class Animal{
+//     String name;
+//     int height;
+//     double weight;
+
+//     Animal(this.name,this.height,this.weight);
+
+//     void features(){
+//         print('$name havings heights $height and having weight $weight');
+//     }
+// }
+
+// void main(){
+//     var a1=Animal('Elephants',22,100);
+//     var a2=Animal('Giraf',42,60);
+
+//     a1.features();
+//     a2.features();
+// }
+
+// class Teacher{
+//     String subject;
+
+//     Teacher(this.subject);
+
+//     void topic(){
+//         print('Anushka mam teaching $subject subject to standards 12th');
+//     }
+// }
+
+// void main(){
+//     var s1=Teacher('English');
+//     s1.topic();
+// }
+
+
+//Enums:Enums are used when you want to list fixed values (like days of the week, planets, etc.).
+
+// enum Day{monday,tuesday,wednesday,thursday,fridays,saturdays,sundays}
+
+// void main(){
+//     var today=Day.monday;
+
+//     print('Todays is $today');
+// }
+
+// enum TrafficLight{red,green,orange}
+
+// void main(){
+//     var light=TrafficLight.red;
+
+//     print('Traffic Light is $light');
+// }
+
+// enum Season { summer, winter, rainy, spring }
+
+// void main(){
+//     var seas=Season.winter;
+
+//     print('Seasons is $seas');
+// }
+
+// enum Grade{A,B,C,D,F}
+
+// void main(){
+//     var s1=Grade.A;
+//     print('John Abrans got $s1 grade');
+// }
+
+// enum Direction{north,south,east,west}
+
+// void main(){
+//     var d1=Direction.west;
+
+//     print('$d1 always eats Westerns foods');
+// }
 
 
     );
